@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ZonaVaca
+    uniqueID: 1797959527
+    locked: 0
+  - name: Suelo
+    uniqueID: 2122199135
+    locked: 0
+  - name: colina
+    uniqueID: 3700715415
+    locked: 0
+  - name: cercas
+    uniqueID: 1040098539
+    locked: 0
+  - name: ZonaGallina
+    uniqueID: 1343704951
+    locked: 0
+  - name: Vaca
+    uniqueID: 3815925483
+    locked: 0
+  - name: Gallina
+    uniqueID: 819212749
+    locked: 0
+  - name: Player
+    uniqueID: 3113609077
+    locked: 0
+  m_RenderingLayers:
+  - Default
